@@ -1,4 +1,4 @@
-# cotizaCriptomonedas-pureJS
+#Cotizador de Criptomonedas - Vanilla JavaScript
 cotizador de criptomonedas consumiendo la API de criptocompare
 
 clona el repositorio y ejecuta el html de la aplicacion
